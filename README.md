@@ -1,5 +1,8 @@
 # Sr Data Scientist
 
+[LinkedIn](www.linkedin.com/in/l-rohan-naidu-304768144)
+[GitHub]([www.linkedin.com/in/l-rohan-naidu-304768144](https://github.com/RohanNaidu14))
+
 #### Technical Skills: Python, SQL, AWS Lambda, AWS API Gateway, Google BigQuery, Google AdMob, Databricks, Snowflake, MongoDb, Postman, Tensorflow, Scikit-learn.
 
 ## Education			        		
