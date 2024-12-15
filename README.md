@@ -12,7 +12,7 @@
 **Sr Data Scientist @ Gamucopia Creatives (_Sept 2024 - Present_)**
 - Building Data Pipeline for Gamucopia using Python & Google Big Query
 - Bonus Expiry Job for Gamucopia
-- Setting up Analytical Database Schema using Neo4j Graph Db (Ongoing)
+- Setting up Analytical Database Schema using Neo4j Graph Db
 - Custom DS Projects as per client requirements
 - Building Dashboards using Streamlit Package
 - Building Data Pipelines using Python, AWS Lambda, AWS API, Docker, MageAI
