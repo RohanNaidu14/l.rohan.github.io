@@ -1,6 +1,6 @@
 # Sr Data Scientist
 
-#### Technical Skills: Python, SQL, AWS Lambda, AWS API Gateway, Google BigQuery, Google AdMob, Databricks, Snowflake, MongoDb, Postman, Tensorflow, Scikit-learn, 
+#### Technical Skills: Python, SQL, AWS Lambda, AWS API Gateway, Google BigQuery, Google AdMob, Databricks, Snowflake, MongoDb, Postman, Tensorflow, Scikit-learn.
 
 ## Education			        		
 - B. Tech, Computer Science | Lingayas Vidyapeeth (_Oct 2019_)
